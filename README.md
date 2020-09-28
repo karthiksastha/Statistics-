@@ -1,4 +1,4 @@
-# Statistics
+# Statistics Assignments
 
 # Stats assignment-3
 
